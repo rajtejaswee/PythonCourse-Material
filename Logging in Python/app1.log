@@ -1,0 +1,5 @@
+2025-03-31 01:33:52 - DEBUG - Adding 10 and 5 gives 15
+2025-03-31 01:33:52 - DEBUG - Subtracting 2 from 10 gives 8
+2025-03-31 01:33:52 - DEBUG - Multiplying 10 and 5 gives 50
+2025-03-31 01:33:52 - ERROR - Division by zero is not allowed
+2025-03-31 01:33:52 - DEBUG - Dividing 10 by 2 gives 5.0
